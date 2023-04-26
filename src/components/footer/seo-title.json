@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_footer_seo_titles",
+  "info": {
+    "displayName": "seoTitle",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "seoLinkUrl": {
+      "type": "string"
+    },
+    "seoLinkTitle": {
+      "type": "string"
+    }
+  }
+}

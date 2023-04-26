@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_page_types",
+  "info": {
+    "displayName": "Type"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "richtext"
+    }
+  }
+}

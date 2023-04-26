@@ -1,0 +1,58 @@
+{
+  "kind": "collectionType",
+  "collectionName": "footers",
+  "info": {
+    "singularName": "footer",
+    "pluralName": "footers",
+    "displayName": "Footer",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "wasaltLogo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "licensedLogo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "licensedText": {
+      "type": "string"
+    },
+    "footerBlock1Seo": {
+      "displayName": "seoTitle",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.seo-title"
+    },
+    "footerBlock2Seo": {
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.seo-title"
+    },
+    "footerBlock1": {
+      "type": "string"
+    },
+    "footerBlock2": {
+      "type": "string"
+    }
+  }
+}

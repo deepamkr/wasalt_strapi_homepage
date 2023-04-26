@@ -1,0 +1,52 @@
+{
+  "kind": "collectionType",
+  "collectionName": "headers",
+  "info": {
+    "singularName": "header",
+    "pluralName": "headers",
+    "displayName": "Header",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "headerBlock1": {
+      "displayName": "headerBlock1",
+      "type": "component",
+      "repeatable": true,
+      "component": "header.header-block1"
+    },
+    "headerBlock2": {
+      "displayName": "headerBlock2",
+      "type": "component",
+      "repeatable": true,
+      "component": "header.header-block2"
+    },
+    "headerBlock3": {
+      "displayName": "headerBlock3",
+      "type": "component",
+      "repeatable": true,
+      "component": "header.header-block3"
+    },
+    "headerBlock1Titletag": {
+      "type": "string"
+    },
+    "headerBlock3Titletag": {
+      "type": "string"
+    },
+    "headerBlock4": {
+      "displayName": "headerBlock4",
+      "type": "component",
+      "repeatable": false,
+      "component": "header.header-block4"
+    },
+    "headerBlock5": {
+      "displayName": "headerBlock5",
+      "type": "component",
+      "repeatable": false,
+      "component": "header.header-block5"
+    }
+  }
+}

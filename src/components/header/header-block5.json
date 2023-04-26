@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_header_header_block5s",
+  "info": {
+    "displayName": "headerBlock5",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headerBlock5text": {
+      "type": "string"
+    },
+    "headerBlock5QrImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "headerBlock5component": {
+      "displayName": "headerBlock5Component",
+      "type": "component",
+      "repeatable": true,
+      "component": "header.header-block5-component"
+    }
+  }
+}

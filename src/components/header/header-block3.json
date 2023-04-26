@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_header_header_block3s",
+  "info": {
+    "displayName": "headerBlock3"
+  },
+  "options": {},
+  "attributes": {
+    "headerBlock3Title": {
+      "type": "string"
+    },
+    "headerBlock3PhoneNumber": {
+      "type": "string"
+    }
+  }
+}

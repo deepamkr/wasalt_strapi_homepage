@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_header_header_block1s",
+  "info": {
+    "displayName": "headerBlock1",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headerBlock1Title": {
+      "type": "string"
+    },
+    "headerBlock1Url": {
+      "type": "string"
+    },
+    "headerBlock1Description": {
+      "type": "text"
+    }
+  }
+}

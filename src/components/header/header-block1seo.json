@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_header_header_block1seos",
+  "info": {
+    "displayName": "headerBlock1seo",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "seoLinkTitle": {
+      "type": "string"
+    }
+  }
+}

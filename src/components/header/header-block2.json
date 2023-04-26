@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_header_header_block2s",
+  "info": {
+    "displayName": "headerBlock2"
+  },
+  "options": {},
+  "attributes": {
+    "headerBlock2Title": {
+      "type": "string"
+    },
+    "headerBlock2Url": {
+      "type": "string"
+    }
+  }
+}

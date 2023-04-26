@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_header_header_block5_components",
+  "info": {
+    "displayName": "headerBlock5Component",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headerBlock5Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "headerBlock5Url": {
+      "type": "string"
+    }
+  }
+}

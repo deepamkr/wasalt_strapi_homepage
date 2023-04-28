@@ -48,11 +48,23 @@
       "repeatable": true,
       "component": "footer.seo-title"
     },
-    "footerBlock1": {
+    "footerBlock1TitleTag": {
+      "type": "string"
+    },
+    "footerBlock2TitleTag": {
       "type": "string"
     },
     "footerBlock2": {
-      "type": "string"
+      "displayName": "footerBlock2",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.footer-block2"
+    },
+    "footerBlock3": {
+      "displayName": "footerBlock3",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.footer-block3"
     }
   }
 }

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_footer_footer_block3s",
+  "info": {
+    "displayName": "footerBlock3"
+  },
+  "options": {},
+  "attributes": {
+    "footerBlock3Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "footerBlock3Url": {
+      "type": "string"
+    }
+  }
+}

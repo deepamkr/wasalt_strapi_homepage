@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_footer_footer_block2s",
+  "info": {
+    "displayName": "footerBlock2"
+  },
+  "options": {},
+  "attributes": {
+    "footerBlock2Title": {
+      "type": "string"
+    },
+    "footerBlock2Url": {
+      "type": "string"
+    }
+  }
+}
